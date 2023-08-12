@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fire Note</string>
+    <string name="info">Di Dalam Aplikasi ini Terdapa Menu Profil, Notes, Dan Juga Informasi
+    Tentang Aplikasi</string>
+    <string name="info2">Pada Menu Notes Di Sini Bisa Menambahkan Catatan Harian Anda, Selain itu Juga
+    Pada Menu Notes Ini Bisa Untuk Mengedit Ataupun Menghapus Catatan Harian Anda</string>
+
+</resources>
